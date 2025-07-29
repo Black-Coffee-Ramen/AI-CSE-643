@@ -8,8 +8,8 @@ This repository contains all four major projects completed as part of the **Arti
 ---
 
 ## Table of Contents
-1. [Project 1: Classical Search & Game Tree Reasoning](Classical Search & Game Tree Reasoning)
-2. [Project 2: Knowledge Representation & Reasoning](#project-2)
+1. [Project 1: Classical Search & Game Tree Reasoning](#project-1)
+2. [Project 2: Knowledge Representation & Reasoning](#Knowledge-Representation-&-Reasoning)
 3. [Project 3: Bayesian Networks & HMM](#project-3)
 4. [Project 4: Real Estate Price Prediction using Decision Trees](#project-4)
 5. [Skills Demonstrated](#skills-demonstrated)
