@@ -2,7 +2,7 @@
 **Student ID:** 2022118  
 **Instructor:** Prof. Saket Anand  
 
-This repository contains all four major projects completed as part of the **Artificial Intelligence** course at IIIT Delhi. The projects cover a wide spectrum of core AI domains including classical search, knowledge representation, probabilistic reasoning, and machine learning.
+This repository contains all four major projects completed as part of the **CSE643** **(Artificial Intelligence)** course at IIIT Delhi. The projects cover a wide spectrum of core AI domains including classical search, knowledge representation, probabilistic reasoning, and machine learning.
 
 ---
 
