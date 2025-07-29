@@ -1,13 +1,13 @@
-# 🧠 AI Course Portfolio – IIIT Delhi (CSE643)
+# AI Course Portfolio – IIIT Delhi (CSE643)
 **Student ID:** 2022118  
-**Instructor:** Prof. [Name]  
+**Instructor:** Prof. Saket Anand  
 **Course Weightage:** 35% (4 Projects)
 
 This repository contains all four major projects completed as part of the **Artificial Intelligence** course at IIIT Delhi. The projects cover a wide spectrum of core AI domains including classical search, knowledge representation, probabilistic reasoning, and machine learning.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 1. [Project 1: Classical Search & Game Tree Reasoning](#project-1)
 2. [Project 2: Knowledge Representation & Reasoning](#project-2)
 3. [Project 3: Bayesian Networks & HMM](#project-3)
@@ -17,14 +17,14 @@ This repository contains all four major projects completed as part of the **Arti
 
 ---
 
-## 🧭 Project 1: Classical Search & Game Tree Reasoning
+## Project 1: Classical Search & Game Tree Reasoning
 **Keywords:** A*, UCS, IDS, Bidirectional Search, Minimax, Alpha-Beta Pruning  
 **Skills:** Python, Heuristics, Graph Theory, Game Tree Modeling
 
-### 🔍 Overview:
+### Overview:
 Implemented classical uninformed and informed search algorithms to find optimal paths across IIIT Delhi’s campus graph. Extended the work to adversarial reasoning using Minimax and Alpha-Beta Pruning with best/worst-case optimization.
 
-### 📌 Highlights:
+### Highlights:
 - Compared A*, UCS, IDS, and Bidirectional A* on real map data.
 - Benchmarked path cost, memory, and runtime.
 - Visualized search behavior and node expansions.
@@ -32,14 +32,14 @@ Implemented classical uninformed and informed search algorithms to find optimal 
 
 ---
 
-## 🧠 Project 2: Knowledge Representation & Reasoning
+## Project 2: Knowledge Representation & Reasoning
 **Keywords:** FOL, PL, Resolution Refutation, PyDatalog, PDDL  
 **Skills:** Logic Programming, Rule-based Systems, Symbolic Reasoning, Planning
 
-### 🔍 Overview:
+### Overview:
 Designed real-world logical systems using First-Order Logic (FOL) and implemented symbolic reasoning over transit networks. Developed planners for routing and fare-constrained travel using PyDatalog and PDDL.
 
-### 📌 Highlights:
+### Highlights:
 - Encoded traffic light systems and graph colorings using FOL.
 - Solved dolphin literacy paradox using resolution refutation.
 - Developed planners using Forward and Backward Chaining.
@@ -47,14 +47,14 @@ Designed real-world logical systems using First-Order Logic (FOL) and implemente
 
 ---
 
-## 📊 Project 3: Bayesian Networks & Hidden Markov Models
+## Project 3: Bayesian Networks & Hidden Markov Models
 **Keywords:** Gibbs Sampling, Bayesian Inference, CPT Pruning, Viterbi  
 **Skills:** Probabilistic Modeling, bnlearn, HMMs, Gaussian Noise Simulation
 
-### 🔍 Overview:
+### Overview:
 Built a fare classification model using Bayesian Networks and optimized it via pruning and structure learning. Implemented a Viterbi-based tracker for a robotic vacuum cleaner (Roomba) using noisy sensor data modeled as an HMM.
 
-### 📌 Highlights:
+### Highlights:
 - Developed 3 versions of a Bayesian Network for fare prediction.
 - Modeled adversarial ML scenarios using Bayesian belief updates.
 - Built and visualized an HMM to track Roomba's path.
@@ -62,14 +62,14 @@ Built a fare classification model using Bayesian Networks and optimized it via p
 
 ---
 
-## 🏡 Project 4: Real Estate Price Prediction using Decision Trees
+## Project 4: Real Estate Price Prediction using Decision Trees
 **Keywords:** Decision Tree, Hyperparameter Tuning, SMOTE, ADASYN, Random Forest  
 **Skills:** Scikit-learn, EDA, Pruning, Cross-Validation, Ensemble Models
 
-### 🔍 Overview:
+### Overview:
 Designed a decision tree regressor to predict property prices. Focused on feature engineering, imbalance handling, pruning, and evaluation using real-world housing data.
 
-### 📌 Highlights:
+### Highlights:
 - Achieved R² ≈ 0.993 on both train and test sets.
 - Performed feature selection and evaluated feature importance.
 - Applied pruning and tuned hyperparameters to reduce overfitting.
@@ -77,7 +77,7 @@ Designed a decision tree regressor to predict property prices. Focused on featur
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 | Category                    | Tools/Concepts                                                                 |
 |----------------------------|--------------------------------------------------------------------------------|
