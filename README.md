@@ -89,7 +89,7 @@ Designed a decision tree regressor to predict property prices. Focused on featur
 
 ---
 
-## 📝 License
+## License
 
 This repository is for academic purposes and subject to IIIT Delhi’s AI course policies. Reuse or distribution must cite the author.
 
